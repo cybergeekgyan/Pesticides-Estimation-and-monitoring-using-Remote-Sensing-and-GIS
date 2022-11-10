@@ -1,0 +1,1 @@
+# Pesticides-Estimation-and-monitoring-using-Remote-Sensing

@@ -1,10 +1,9 @@
 # Pesticides-Estimation-and-monitoring-using-Remote-Sensing
 
-# Pesticides Estimation using Remote Sensing and GIS
 
 ## Research Proposal: 
 
-Pesticides Estimation using Remote Sensing and GIS
+Pesticides Estimation and Monitoring using Remote Sensing and GIS
 
 
 ## Introduction:

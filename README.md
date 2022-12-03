@@ -41,6 +41,28 @@ The methodology for Pesticides Estimation using Remote Sensing and GIS involves 
 6. Report Generation: Generate a comprehensive report that summarizes the findings of the analysis.
 
 
+## Steps 
+
+1. Collect high-resolution satellite imagery, such as Landsat 8 or Sentinel-2, for the area of interest.
+
+2. Use GIS software to create a land cover map of the area of interest.
+
+3. Extract spectral information from the satellite imagery and use it to identify areas with potential pesticide use.
+
+4. Use GIS software to create a map of the potential pesticide use areas.
+
+5. Use field sampling techniques to measure the concentration of pesticides in the soil and water.
+
+6. Correlate the field sample data with the satellite imagery to identify areas with high pesticide use.
+
+7. Use GIS software to create a map of the areas with high pesticide use.
+
+8. Use other sources of information, such as public health records and agricultural production data, to confirm the presence of pesticides in the area.
+
+9. Use GIS software to create a final map of the areas with highest pesticide use.
+
+
+
 ## Timeline
 
 The research project is expected to take 12 months to complete. The timeline for each stage is as follows:

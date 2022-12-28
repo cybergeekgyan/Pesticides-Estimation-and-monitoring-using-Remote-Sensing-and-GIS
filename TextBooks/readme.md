@@ -56,7 +56,7 @@
 - [Geographical Information Systems and Computer Cartography — Jones Christopher B.]()
 - [Elements of Cartography — Robinson, A.; Morrison, J.; Muehrke, P.; Kimmerling, A.; & Guptill, S.]()
 - [Thematic Cartography and Transformations — Cauvin, Colette, Escobar, Francisco and Serradj, Aziz.]()
-- [Web Cartography: Developments and Prospects — Kraak Menno Jan and Brown Allan.
+- [Web Cartography: Developments and Prospects — Kraak Menno Jan and Brown Allan.]()
 - [An overview of data pre-processing of remotely sensed data – A tutorial on Image Pre-Processing’ by A. R. Dasgupta, GD, IPDPG, SAC delivered at ISPRS Commission I conference during February 1998, at Bangalore.]()
 - [Specifications of data products and their relation with sensor and platform characteristics – A tutorial on ‘Image Pre-Processing’ by Dr. P. K. Srivastava, IPPD/IPDPG/SAC delivered at ISPRS Commission I conference during February 1998, at Bangalore.]()
 - [SPOT Stereo Data Processing: Determination of Digital Terrain Model from SPOT stereo pairs, Mathematical formulation and functional design, P. K. Srivastava, T. G. B. Srikant, T. P. Srinivasan, M. P. T. Chamy, P. M. Udani, IPDPG/IPPD/SAC/DP-02/89.]()
